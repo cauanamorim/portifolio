@@ -139,23 +139,23 @@ body {
     background-color: var(--cor-hover);
 }
 
-/* .imagem {
+.imagem {
     width: 500px;
     height: 600px;
     left: 1052px;
     top: 347px;
     border-radius: 5%;
     box-shadow: 5px 9px #BFACE2 ;
-} */
+} 
 
 
 .apresentacao__imagem {
     width: 35%;
-    /* height: 600px;
+    height: 600px;
     left: 1052px;
     top: 347px;
     border-radius: 5%;
-    box-shadow: 5px 9px #BFACE2 */
+    box-shadow: 5px 9px #BFACE2
 }
 
 .footer {
